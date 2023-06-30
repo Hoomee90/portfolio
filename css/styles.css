@@ -1,0 +1,12 @@
+.container-fluid {
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
+
+.first-header {
+  border-right: 1px solid #13899c;
+}
+
+.card {
+  margin-top: 0.5em;
+}
