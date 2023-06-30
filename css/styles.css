@@ -3,10 +3,19 @@
   padding-top: 1em;
 }
 
-.first-header {
-  border-right: 1px solid #13899c;
-}
 
 .card {
   margin-top: 0.5em;
+}
+
+.headshot h3 {
+  border-right: 1px solid #13899c;
+}
+
+.headshot img {
+  margin: 0.5em;
+}
+
+.username {
+  color: #101414;
 }
