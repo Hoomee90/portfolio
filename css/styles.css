@@ -19,3 +19,9 @@
 .username {
   color: #101414;
 }
+
+.look-ma-two-lists {
+  list-style-type: circle;
+  line-height: 2em;
+  margin-bottom: 0;
+}
