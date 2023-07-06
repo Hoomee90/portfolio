@@ -42,6 +42,17 @@
   width: 100%;
 }
 
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-body a {
+  align-self: flex-start;
+  margin-top: auto;
+}
+
 #superscript {
   vertical-align: super;
   margin-top: 0px;
