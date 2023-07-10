@@ -34,4 +34,4 @@ This browser page is my portfolio of GitHub projects I'm proud of, as well as a 
 
 Copyright (c) 2023 Samatha Callie
 
-<sub><sup>making this all site look and sound all professional was like boymoding for code frfr</sup></sub>
+<sub><sup>making this site look and sound all professional was like boymoding for code frfr</sup></sub>
